@@ -1,0 +1,2 @@
+# Hybrid-digital-twin-for-real-time-thermal-runaway-detection-in-lithium-ion-battery
+Lithium-ion batteries are widely used in electric vehicles. One major safety issue is thermal runaway, where the battery temperature increases uncontrollably, potentially leading to fire or explosion. Existing Battery Management Systems often detect faults after they occur. Our goal is to predict thermal runaway earlier.
